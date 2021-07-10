@@ -4,7 +4,7 @@
 //
 //  Created by Field Employee on 7/7/21.
 //
-
+/*
 import Foundation
 
 class GeneralViewModel {
@@ -21,3 +21,4 @@ class GeneralViewModel {
         completed = model.completed
     }
 }
+*/

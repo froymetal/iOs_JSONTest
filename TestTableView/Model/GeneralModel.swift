@@ -33,7 +33,7 @@ struct NewsResponse: Codable {
 struct Response: Codable {
  *   var results: [Result]
 }
- */
+
 struct Result: Decodable {
     var results: [Todo]
 
@@ -46,7 +46,7 @@ struct Todo: Codable {
     public var title: String
     public var completed: Bool
 }
-
+ */
 struct CryptoDataContainer: Decodable {
     let status: String
     let data: CryptoData

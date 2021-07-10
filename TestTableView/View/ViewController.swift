@@ -73,8 +73,6 @@ extension ViewController: UITableViewDataSource{
         print(cell as Any)
         cell!.titleLabel.text = message.name
         cell!.descLabel.text = message.price
-
-        
         return cell!
     }
 

@@ -2,7 +2,7 @@
 //  NoticiasTableViewCell.swift
 //  TestTableView
 //
-//  Created by Field Employee on 7/6/21.
+//  Created by Froy on 7/6/21.
 //
 
 import UIKit
